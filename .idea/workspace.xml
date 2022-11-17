@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19655058-44d1-4e6a-92c2-9ab2f6e6bdb1" name="Changes" comment="basic hello world program" />
+    <list default="true" id="19655058-44d1-4e6a-92c2-9ab2f6e6bdb1" name="Changes" comment="check integer value size" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668664687009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic hello world program">
+      <created>1668664807851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668664807851</updated>
+    </task>
+    <task id="LOCAL-00003" summary="check integer value size">
+      <created>1668665067578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668665067578</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic hello world program" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic hello world program" />
+    <MESSAGE value="check integer value size" />
+    <option name="LAST_COMMIT_MESSAGE" value="check integer value size" />
   </component>
 </project>

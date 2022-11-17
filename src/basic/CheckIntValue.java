@@ -10,5 +10,7 @@ public class CheckIntValue {
 
         System.out.println("Burst Min Value: "+(myMinValue-1));
         System.out.println("Burst Max Value: "+(myMaxValue+1));
+
+        int myIntTest = 2_14_7_48_36_47;
     }
 }
